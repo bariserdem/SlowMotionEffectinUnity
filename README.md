@@ -17,6 +17,5 @@ Here I am sharing the tip&tricks projects I prepared for Panteon.
 [Slow Motion Effect in Unity-YouTube](https://www.youtube.com/shorts/tWkPahUQwiw)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bariserdem&layout=compact)](https://github.com/bariserdem/github-readme-stats)
   <br>
 ![BarisErdem's github stats](https://github-readme-stats.vercel.app/api?username=bariserdem&show_icons=true&theme=default)
