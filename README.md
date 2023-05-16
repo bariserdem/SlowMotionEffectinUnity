@@ -14,6 +14,9 @@ Here I am sharing the tip&tricks projects I prepared for Panteon.
 - 🌱 I believe that as I share, I will support the creation of new ideas.
 - <a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a> Youtube: [Barış Erdem ▶️](https://www.youtube.com/@BarisErdem)
 
+[Slow Motion Effect in Unity-YouTube](https://www.youtube.com/shorts/tWkPahUQwiw)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bariserdem&layout=compact)](https://github.com/bariserdem/github-readme-stats)
   <br>
 ![BarisErdem's github stats](https://github-readme-stats.vercel.app/api?username=bariserdem&show_icons=true&theme=default)
